@@ -1,0 +1,47 @@
+.container{
+    display:block;
+    color: rgb(228, 150, 6);
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+}
+h1
+{
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+table {
+    margin: auto;
+}
+input{
+    border-radius: 10px;
+    width: 267px;
+    height: 22px;
+    margin-bottom: 14px;
+    margin-top: 10px;
+    border: 2px solid rgb(228, 150, 6) ;
+    background-color: rgb(233, 224, 206);
+}
+button{
+   border:0px;
+    background-color:rgb(233, 224, 206);
+    border-radius: 34px;
+    width: 90px;
+    height: 47px; 
+}
+button:hover{
+    background-color:rgb(228, 150, 6);
+    
+}
+.box{
+
+    margin-top: -10px;
+    background-color: rgb(241, 210, 153);
+    display: inline-block;
+    border :2px solid rgb(228, 150, 6);
+    border-radius: 10px;
+}
+.innerboX{
+    margin-left:15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
