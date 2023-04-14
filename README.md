@@ -1,2 +1,2 @@
-# TechflickerTasks-Mustafa-
-calculator
+# Calculator 
+Simple calculator 
